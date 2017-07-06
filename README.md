@@ -10,6 +10,7 @@ This repository is a collection of useful C# scripts for Space Engineers! Usage 
 
 ## Work in progress:
 * <b>AntennaScript:</b> Currently messing around with antenna API to find out what useful stuff can be done within a script
+* <b>MouseAimedTurretsScript:</b> Thinking of aiming a group of turrets at once using a Remote Control Block. Also I want to make it possible to remotely aim turret groups of many different ships at a target specified by a camera/antenna. Just like <a href="https://youtu.be/GTjZITteKvw?t=3m20s">here</a> just with space engineers laser antennas or camera blocks and WAY more accuracy :D
 
 ## Planned Scripts:
 None yet. I'm open for suggestions! But please make sure, your ideas don't already exist in the SpaceEngineers Steam workshop before suggesting them to me.
