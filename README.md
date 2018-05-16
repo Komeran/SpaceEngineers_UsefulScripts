@@ -16,6 +16,6 @@ This repository is a collection of useful C# scripts for Space Engineers! Usage 
 None yet. I'm open for suggestions! But please make sure, your ideas don't already exist in the SpaceEngineers Steam workshop before suggesting them to me.
 
 ## About Komeran:
-Hey there guys! I'm a 20 y.o. student from austria currently attending a school for IT and Game Development! I enjoy playing games like Space Engineers and figured that the programming API makes space (pun intended ;D) for so much opportunities! :D That's why I decided to create this repository as a collection of all the scripts I came up with to improve my personal space engineers experience! :D
+Hey there guys! I'm a 20 y.o. game dev from austria! I enjoy playing games like Space Engineers and figured that the programming API makes space (pun intended ;D) for so much opportunities! :D That's why I decided to create this repository as a collection of all the scripts I came up with to improve my personal space engineers experience! :D
 
 <b><i>Feel free to use any of these scripts in your space engineers games/servers but if you share them with others or take code parts for your own scripts please make sure to give some credit to me. It helps me keeping track of how many people find my scripts useful for their own gaming experience :)</b></i>
