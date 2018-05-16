@@ -1,5 +1,5 @@
 # UsefulScripts by Komeran
-This repository is a collection of useful C# scripts for Space Engineers! Usage tutorials might be added in the future (Maybe even YouTube videos) but for now try to find out yourself how to use them as I am a rather busy person :D (school and stuff...)
+This repository is a collection of useful C# scripts for Space Engineers! Usage tutorials might be added in the future (Maybe even YouTube videos) but for now try to find out yourself how to use them as I am a rather busy person :D
 
 ## Current Scripts:
 * <b>AirtightDoorScript:</b> To make two doors (can be any kind of doors) behave like an airlock
